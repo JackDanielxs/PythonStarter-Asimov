@@ -1,4 +1,4 @@
-# Calculadora
+# Calculadora - Daniel Marques
 
 import os
 
