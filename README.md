@@ -5,7 +5,7 @@ This repository contains my solutions to exercises from my first official Python
 ## 📚 About the course
 
 - **Course Name:** Python Starter  
-- **Instructor/Organization:** Asimov  
+- **Organization:** Asimov  
 - **Description:** An introductory course to Python covering the basics of programming, including variables, data types, control structures, functions, and problem-solving with code.
 
 ## 🚀 What I've learned
