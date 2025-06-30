@@ -15,7 +15,7 @@ This repository contains my solutions to exercises from my first official Python
 - How to use the `os` module to interact with computer and files
 - Error handling and debugging techniques for writing better code
 - Object-Oriented Programming (OOP) and how to apply it in practice
-- Building games with Python, such as Tic-Tac-Toe and Rock, Paper, Scissors
+- Building games with Python
 
 ## 🎯 Purpose
 
