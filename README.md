@@ -22,7 +22,3 @@ This repository contains my solutions to exercises from my first official Python
 - Practice and reinforce Python basics
 - Document my learning journey
 - Serve as a reference for future projects
-
----
-
-📜 **Note:** I will add my certificate here as soon as I complete the course.
